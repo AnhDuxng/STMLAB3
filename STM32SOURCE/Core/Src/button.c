@@ -62,12 +62,6 @@ void getKeyInput() {
 	}
 
 
-	//KeyReg2[0] = HAL_GPIO_ReadPin(BUTTON_MODE_GPIO_Port, BUTTON_MODE_Pin);
-	//KeyReg2[1] = HAL_GPIO_ReadPin(BUTTON_TIME_GPIO_Port, BUTTON_TIME_Pin);
-	//KeyReg2[2] = HAL_GPIO_ReadPin(BUTTON_SET_GPIO_Port, BUTTON_SET_Pin);
-
-
-
 	for (int i = 0; i < 3; i++) {
 		KeyReg0[i] = KeyReg1[i];
 		KeyReg1[i] = KeyReg2[i];
