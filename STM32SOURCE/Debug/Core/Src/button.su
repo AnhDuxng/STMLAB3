@@ -1,0 +1,6 @@
+button.c:19:5:MODE_PRESSED	4	static
+button.c:27:5:TIME_PRESSED	4	static
+button.c:35:5:SET_PRESSED	4	static
+button.c:44:6:setKeyReg2	16	static
+button.c:50:6:setFlag	16	static
+button.c:57:6:getKeyInput	16	static

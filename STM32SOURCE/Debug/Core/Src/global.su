@@ -1,0 +1,4 @@
+global.c:10:6:display7SEG0	16	static
+global.c:112:6:display7SEG1	16	static
+global.c:227:6:updateSEGBuffer	24	static
+global.c:234:6:update7SEG	16	static
